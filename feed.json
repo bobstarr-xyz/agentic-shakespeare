@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Agentic Shakespeare",
     "description": "",
-    "home_page_url": "https://bobstarr-xyz.github.io/agentic-shakespeare",
-    "feed_url": "https://bobstarr-xyz.github.io/agentic-shakespeare/feed.json",
+    "home_page_url": "https://agenticshakespeare.com",
+    "feed_url": "https://agenticshakespeare.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Bob Starr"
     },
     "items": [
         {
-            "id": "https://bobstarr-xyz.github.io/agentic-shakespeare/test-test-test-2.html",
-            "url": "https://bobstarr-xyz.github.io/agentic-shakespeare/test-test-test-2.html",
+            "id": "https://agenticshakespeare.com/test-test-test-2.html",
+            "url": "https://agenticshakespeare.com/test-test-test-2.html",
             "title": "test test test 2",
             "summary": "blah blah blah",
             "content_html": "<p>blah blah blah</p>",
@@ -24,8 +24,8 @@
             "date_modified": "2025-07-25T11:09:15-04:00"
         },
         {
-            "id": "https://bobstarr-xyz.github.io/agentic-shakespeare/test-post.html",
-            "url": "https://bobstarr-xyz.github.io/agentic-shakespeare/test-post.html",
+            "id": "https://agenticshakespeare.com/test-post.html",
+            "url": "https://agenticshakespeare.com/test-post.html",
             "title": "test post",
             "summary": "blah blah blah",
             "content_html": "<p>blah blah blah</p>",

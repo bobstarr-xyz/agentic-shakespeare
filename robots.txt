@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://bobstarr-xyz.github.io/agentic-shakespeare/sitemap.xml
+Sitemap: https://agenticshakespeare.com/sitemap.xml
