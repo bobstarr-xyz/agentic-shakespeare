@@ -3,12 +3,32 @@
     <title>Agentic Shakespeare</title>
     <link href="https://bobstarr-xyz.github.io/agentic-shakespeare/feed.xml" rel="self" />
     <link href="https://bobstarr-xyz.github.io/agentic-shakespeare" />
-    <updated>2025-07-25T11:02:58-04:00</updated>
+    <updated>2025-07-25T11:09:15-04:00</updated>
     <author>
         <name>Bob Starr</name>
     </author>
     <id>https://bobstarr-xyz.github.io/agentic-shakespeare</id>
 
+    <entry>
+        <title>test test test 2</title>
+        <author>
+            <name>Bob Starr</name>
+        </author>
+        <link href="https://bobstarr-xyz.github.io/agentic-shakespeare/test-test-test-2.html"/>
+        <id>https://bobstarr-xyz.github.io/agentic-shakespeare/test-test-test-2.html</id>
+
+        <updated>2025-07-25T11:09:15-04:00</updated>
+            <summary>
+                <![CDATA[
+                    blah blah blah
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>blah blah blah</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>test post</title>
         <author>
