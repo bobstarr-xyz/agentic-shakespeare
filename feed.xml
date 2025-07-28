@@ -3,7 +3,7 @@
     <title>Agentic Shakespeare</title>
     <link href="https://agenticshakespeare.com/feed.xml" rel="self" />
     <link href="https://agenticshakespeare.com" />
-    <updated>2025-07-28T19:35:56-04:00</updated>
+    <updated>2025-07-28T19:43:25-04:00</updated>
     <author>
         <name>Bob Starr</name>
     </author>
@@ -18,10 +18,15 @@
         <id>https://agenticshakespeare.com/test-4.html</id>
 
         <updated>2025-07-28T18:48:45-04:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                    test test test test test test test test test test test test test test test
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                <div class="post__iframe align-center"><div class="post__iframe"><iframe width="900" height="85" style="width: 900px; height: 85px;" loading="lazy" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRiw7hTn5gRknRY02THnOb7PGKyxTMe8q4ms7hda-QyfVmd4b3RcWHFBaaDSdAHkGfHl-gdts4MQoZc/pubhtml?gid=2039314014&amp;single=true&amp;widget=true&amp;headers=false&amp;chrome=false&amp;range=A1:G4"></iframe></div></div>
+                <p>test test test test test test test test test test test test test test test</p>
+<div class="post__iframe"><iframe width="900" height="85" style="width: 900px; height: 85px;" loading="lazy" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRiw7hTn5gRknRY02THnOb7PGKyxTMe8q4ms7hda-QyfVmd4b3RcWHFBaaDSdAHkGfHl-gdts4MQoZc/pubhtml?gid=2039314014&amp;single=true&amp;widget=true&amp;headers=false&amp;chrome=false&amp;range=A1:I3"></iframe></div>
 <!-- DIVIDER -->
 <p> </p>
             ]]>
@@ -36,7 +41,11 @@
         <id>https://agenticshakespeare.com/test-post.html</id>
 
         <updated>2025-07-25T11:02:58-04:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                    blah blah blah
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                 <p>blah blah blah</p>
