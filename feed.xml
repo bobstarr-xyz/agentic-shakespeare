@@ -3,21 +3,21 @@
     <title>Agentic Shakespeare</title>
     <link href="https://agenticshakespeare.com/feed.xml" rel="self" />
     <link href="https://agenticshakespeare.com" />
-    <updated>2025-07-28T15:13:36-04:00</updated>
+    <updated>2025-07-28T18:48:45-04:00</updated>
     <author>
         <name>Bob Starr</name>
     </author>
     <id>https://agenticshakespeare.com</id>
 
     <entry>
-        <title>test test test 2</title>
+        <title>test 4</title>
         <author>
             <name>Bob Starr</name>
         </author>
-        <link href="https://agenticshakespeare.com/test-test-test-2.html"/>
-        <id>https://agenticshakespeare.com/test-test-test-2.html</id>
+        <link href="https://agenticshakespeare.com/test-4.html"/>
+        <id>https://agenticshakespeare.com/test-4.html</id>
 
-        <updated>2025-07-25T11:09:15-04:00</updated>
+        <updated>2025-07-28T18:48:45-04:00</updated>
             <summary>
                 <![CDATA[
                     { "symbols": [{ "proName": "NASDAQ:AAPL", "title": "Apple" }, { "proName": "NASDAQ:MSFT", "title": "Microsoft" }, { "proName": "NASDAQ:AMZN", "title": "Amazon" }, { "proName": "NASDAQ:NVDA", "title": "Nvidia"&hellip;
@@ -26,7 +26,9 @@
         <content type="html">
             <![CDATA[
                 <div class="post__iframe"><iframe width="700" height="50" style="width: 700px; height: 50px;" loading="lazy" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRiw7hTn5gRknRY02THnOb7PGKyxTMe8q4ms7hda-QyfVmd4b3RcWHFBaaDSdAHkGfHl-gdts4MQoZc/pubhtml?gid=2039314014&amp;single=true&amp;widget=true&amp;headers=false&amp;chrome=false&amp;range=A1:G2"></iframe></div>
-<!-- DIVIDER --><!-- TradingView Widget BEGIN -->
+<!-- DIVIDER -->
+<p> </p>
+<!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
 <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async="">
 		{
